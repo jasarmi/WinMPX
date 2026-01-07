@@ -7,7 +7,7 @@
 ---
 
 ## 📥 Installation
-1. Visit the [Latest Release](https://github.com/WinMPX-Technologies/WinMPX/releases/latest) page.
+1. Visit the [Latest Release](https://github.com/WinMPX-Technologies/WinMPX-distribution/releases/latest) page.
 2. Download the **WinMPX_Setup.zip** file (Recommended for a seamless download experience).
 3. Extract the contents and run the `WinMPX_Setup_v2.10.exe`.
 
@@ -38,7 +38,7 @@ WinMPX Technologies is committed to the continuous improvement of our tools:
 ## 💬 Feedback & Support
 We value user input to keep WinMPX at the forefront of the industry. For technical inquiries or feedback:
 * **GitHub Issues:** Open a ticket in our [Issues](https://github.com/WinMPX-Technologies/WinMPX/issues) section.
-* **Direct Support:** Contact our team at `winmpx.support@gmail.com`.
+* **Direct Support:** Contact our team at `support@winmpx.com`.
 
 ---
-*© 2026 WinMPX Technologies. Thank you for choosing our professional audio solutions.*
+*© 2026 WinMPX Technologies. Thank you for choosing our professional media solutions.*

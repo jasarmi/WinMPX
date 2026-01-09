@@ -41,4 +41,4 @@ We value user input to keep WinMPX at the forefront of the industry. For technic
 * **Direct Support:** Contact our team at `support@winmpx.com`.
 
 ---
-*© 2026 WinMPX Technologies. Thank you for choosing our professional audio solutions.*
+*© 2026 WinMPX Technologies. Thank you for choosing our professional video downloader solution.*
